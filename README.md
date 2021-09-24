@@ -1,4 +1,4 @@
 # branch-name-tests
 
-ABC variant
+DEF variant
 
